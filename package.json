@@ -1,0 +1,15 @@
+{
+  "name": "backend_project_practice",
+  "version": "1.0.0",
+  "description": "practice my backend project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "backend",
+    "project"
+  ],
+  "author": "Papai",
+  "license": "ISC"
+}
